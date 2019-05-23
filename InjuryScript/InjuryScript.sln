@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28917.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InjuryScript", "InjuryScript.csproj", "{F67ABAEE-EF22-4E8C-9E4F-DFEB93D64819}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InjuryScript", "InjuryScript.csproj", "{EF0919E4-D5BD-437C-AD72-35498246F06E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F67ABAEE-EF22-4E8C-9E4F-DFEB93D64819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F67ABAEE-EF22-4E8C-9E4F-DFEB93D64819}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F67ABAEE-EF22-4E8C-9E4F-DFEB93D64819}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F67ABAEE-EF22-4E8C-9E4F-DFEB93D64819}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF0919E4-D5BD-437C-AD72-35498246F06E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF0919E4-D5BD-437C-AD72-35498246F06E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF0919E4-D5BD-437C-AD72-35498246F06E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF0919E4-D5BD-437C-AD72-35498246F06E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {08A38E7E-9EE2-4C3E-AD8B-1D1CA66C07AF}
+		SolutionGuid = {7488F2B9-F176-45AB-8B90-ABE239E1B91D}
 	EndGlobalSection
 EndGlobal
