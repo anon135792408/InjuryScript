@@ -5,7 +5,6 @@ C:\Users\adame\source\repos\InjuryScript\InjuryScript\bin\Debug\MsgPack.dll
 C:\Users\adame\source\repos\InjuryScript\InjuryScript\bin\Debug\CitizenFX.Core.pdb
 C:\Users\adame\source\repos\InjuryScript\InjuryScript\bin\Debug\CitizenFX.Core.xml
 C:\Users\adame\source\repos\InjuryScript\InjuryScript\bin\Debug\MsgPack.xml
-C:\Users\adame\source\repos\InjuryScript\InjuryScript\obj\Debug\InjuryScript.csprojAssemblyReference.cache
 C:\Users\adame\source\repos\InjuryScript\InjuryScript\obj\Debug\InjuryScript.csproj.CoreCompileInputs.cache
 C:\Users\adame\source\repos\InjuryScript\InjuryScript\obj\Debug\InjuryScript.csproj.CopyComplete
 C:\Users\adame\source\repos\InjuryScript\InjuryScript\obj\Debug\InjuryScript.net.dll
